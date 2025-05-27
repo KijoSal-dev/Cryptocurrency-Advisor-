@@ -1,6 +1,6 @@
 # Cryptocurrency-Advisor-
 
-Theme: "Your First AI-Powered Financial Sidekick!" 🌟
+Theme: "My First AI-Powered Financial Sidekick!" 🌟
 
 Objective
 
