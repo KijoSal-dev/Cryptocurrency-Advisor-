@@ -22,3 +22,8 @@ API Integration: Pull real-time data using CoinGecko’s free API.
 NLP: Use NLTK to handle more natural language queries.
 
 Ethics Alert: Add a disclaimer like “Crypto is risky—always do your own research!”
+
+## to run project
+cd project
+npm install (Install dependencies just in case they aren't up to date in that folder)
+npm run dev

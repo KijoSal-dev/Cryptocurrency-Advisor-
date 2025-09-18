@@ -91,7 +91,7 @@ const ChatInterface: React.FC = () => {
       <ChatInput onSendMessage={handleSendMessage} />
       
       <div className="p-2 text-xs text-center text-gray-500 bg-gray-100 border-t border-gray-200">
-        Disclaimer: This is a demo chatbot. Cryptocurrency investments carry risk—always do your own research!
+        2025 Preview: For informational purposes only. Not investment advice. Crypto is volatile. Research is your responsibility.
       </div>
     </div>
   );
